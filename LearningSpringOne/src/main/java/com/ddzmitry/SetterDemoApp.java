@@ -14,6 +14,10 @@ public class SetterDemoApp {
         System.out.println(cricketCoach.getDailyWorkout());
         System.out.println(cricketCoach.PaceSpeech());
 
+        // Testing Prototype Scope
+        CricketCoach cricketCoach2 = context.getBean("CrickeCoach", CricketCoach.class);
+        System.out.println(cricketCoach2.getDailyWorkout());
+        System.out.println(cricketCoach2.PaceSpeech());
         context.close();
     }
 }

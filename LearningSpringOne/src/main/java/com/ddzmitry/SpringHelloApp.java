@@ -1,5 +1,6 @@
 package com.ddzmitry;
 
+import com.ddzmitry.Coaches.BaseballCoach;
 import com.ddzmitry.Coaches.Coach;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -13,11 +14,12 @@ public class SpringHelloApp {
         Coach theCoach =  context.getBean("myCoach", Coach.class);
 
         // call method on bean
+
         System.out.println(theCoach.getDailyWorkout());
         System.out.println(theCoach.PaceSpeech());
-
         // close the context
         context.close();
+//        Coach created with empty constructor
 
 
     }

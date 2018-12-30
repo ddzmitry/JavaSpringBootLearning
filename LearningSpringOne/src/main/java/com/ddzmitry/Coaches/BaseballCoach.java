@@ -2,9 +2,14 @@ package com.ddzmitry.Coaches;
 
 import com.ddzmitry.CoachFortunes.FortuneService;
 import com.ddzmitry.Coaches.Coach;
+import com.ddzmitry.NameServicesCoaches.PersonalCoachNamer;
 
 public class BaseballCoach implements Coach {
     private FortuneService fortuneService;
+    private PersonalCoachNamer personalCoachNamer;
+
+
+
     //@Overwrite
     public String getDailyWorkout(){
 
@@ -18,5 +23,11 @@ public class BaseballCoach implements Coach {
     public BaseballCoach(FortuneService fortuneService) {
         this.fortuneService = fortuneService;
     }
+    public BaseballCoach(FortuneService fortuneService, PersonalCoachNamer personalCoachNamer) {
+        this.fortuneService = fortuneService;
+        this.personalCoachNamer = personalCoachNamer;
+    }
 
+    public BaseballCoach() {
+    }
 }

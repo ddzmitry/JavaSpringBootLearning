@@ -19,11 +19,14 @@ public class TrackCoach implements Coach {
     }
 //    Define constructor for dependency injection
 //    That will be passed from applicationContext file
-//          <constructor-arg ref="myFortuneService"/>
-//        <constructor-arg ref="personalCoachNamer"/>
+//    <constructor-arg ref="myFortuneService"/>
+//    <constructor-arg ref="personalCoachNamer"/>
 
-    public TrackCoach(FortuneService fortuneService, PersonalCoachNamer personalCoachNamer) {
+       public TrackCoach(FortuneService fortuneService, PersonalCoachNamer personalCoachNamer) {
         this.fortuneService = fortuneService;
         this.personalCoachNamer = personalCoachNamer;
     }
+    public TrackCoach() {
+    }
 }
+

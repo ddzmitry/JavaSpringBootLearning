@@ -25,7 +25,7 @@
 
     <!--Scope Prototype will create new pnstance of class every time when its called-->
     <!--Scope Singelton will use the same class-instance  every time when its called-->
-    <bean id="CrickeCoach" class="com.ddzmitry.Coaches.CricketCoach" scope="prototype" init-method="GoodMorning" destroy-method="GoodNight">
+    <bean id="CrickeCoach" class="com.ddzmitry.Coaches.CricketCoach" init-method="GoodMorning" destroy-method="GoodNight">
         <!-- set up setter injection-->
         <property name="personalCoachNamer" ref="personalCoachNamer"/>
         <property name="fortuneService" ref="myFortuneService"/>

@@ -1,11 +1,11 @@
 package com.ddzmitry.LoggerConfigs;
 
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
-
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class MyLoggerConfig {
 

@@ -10,6 +10,14 @@ public class CricketCoach implements Coach {
     private String CoachEmail;
     private String Team;
 
+//    Init method
+    public void  GoodMorning(){
+        System.out.println("Good Morning!");
+    }
+//    Destroy Method
+    public void GoodNight(){
+        System.out.println("Good Night!");
+    }
 
     public String getDailyWorkout() {
         return "Do some Cricket today";

@@ -1,7 +1,12 @@
 package com.ddzmitry.CoachFortunes;
 
+import org.springframework.stereotype.Component;
+
 import java.util.ArrayList;
 
+
+@Component
+// Annotate fo injection
 public class CoachFortuneRandom implements FortuneService {
 
     public String getFortune() {

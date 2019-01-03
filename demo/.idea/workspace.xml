@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c130b1f-ba4d-4334-a063-7666e19e70de" name="Default Changelist" comment="">
+    <list default="true" id="ed1d82de-f471-4d25-bb53-94e3d6a0e50c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/SadFortuneService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/JavaConfCoach.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/VolleyBallCoach.java" afterDir="false" />
@@ -254,10 +254,10 @@
       <change beforePath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SetterDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SetterDemoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearningSpringOne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningSpringOne/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,44 +272,110 @@
     </option>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1445016096">
+    <session id="-227454950">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.69" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="28" />
-          <entry key="Properties" value="1" />
-          <entry key="UML" value="1" />
-          <entry key="XML" value="5" />
+          <entry key="JAVA" value="42" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2703" />
-          <entry key="Properties" value="71" />
-          <entry key="XML" value="887" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.core.usages.trigger">
-        <counts>
-          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="1" />
+          <entry key="JAVA" value="3051" />
+          <entry key="PLAIN_TEXT" value="61" />
+          <entry key="Properties" value="102" />
+          <entry key="XML" value="136" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/SpringHelloApp.java">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/FieldIjectionCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="480">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#435#449#1" expanded="true" />
+                <element signature="e#488#505#1" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SportConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#1163#1164#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/VolleyBallCoach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="710">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#200#214#1" expanded="true" />
+                <element signature="e#253#266#1" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/GamerCoach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -318,110 +384,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/Coach.java">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/SwimmingCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/CoachFortunes/CoachFortuneRandom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="150">
+              <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#297#305#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="e#1090#1091#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/SetterDemoApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/beanScope_applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/BeanScopeDemo.java">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/JavaConfCoach.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/JavaConfigDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-              <folding>
-                <element signature="e#1538#1552#0" expanded="true" />
-                <element signature="e#1595#1608#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SpringUsingConfigWithProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/BeanLifeCycleDemoApp.java">
+        <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/LearningSpringBootWithAnnotationsApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/CricketCoach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#1259#1260#0" expanded="true" />
-                <element signature="e#1292#1293#0" expanded="true" />
-                <element signature="e#1323#1324#0" expanded="true" />
-                <element signature="e#1350#1351#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/beanLifeCycle_applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+            <state relative-caret-position="200">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -431,8 +450,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -443,33 +460,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/MyApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/config.fxml" />
-        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/Coach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/BaseballCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/TrackCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/MyLoggerConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/SwimmingCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/CoachFortunes/FortuneService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/MyApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/Coach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/NameServicesCoaches/NameserviceCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/NameServicesCoaches/PersonalCoachNamer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/DartsCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/SwimmingCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/BaseballCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/TrackCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/SpringHelloApp.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/sport.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/CoachFortunes/CoachFortuneRandom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/BeanScopeDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/beanScope_applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/SetterDemoApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/CricketCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/beanLifeCycle_applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ddzmitry/BeanLifeCycleDemoApp.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/LoggerConfigs/MyLoggerConfig.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/CricketCoach.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/CoachFortuneRandom.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/SindleFortune.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/DataBaseFortuneService.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/RestFortuneService.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/GamerCoach.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SetterDemoApp.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/SingleFortune.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/TennisCoach.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/ScopeAnnotationExample.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/JavaConfigDemo.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/SadFortuneService.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/JavaConfCoach.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/SwimmingCoach.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/FieldIjectionCoach.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SportConfig.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/VolleyBallCoach.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/JavaConfigDemoSwimBeans.java" />
+        <option value="$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SpringUsingConfigWithProperties.java" />
       </list>
     </option>
   </component>
@@ -486,11 +498,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-242" />
-    <option name="y" value="278" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -500,83 +512,89 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="learningSpring_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpringOne" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learningSpring_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpringOne" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learningSpring_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpringOne" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learningSpring_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpringOne" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learningSpring_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpringOne" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ddzmitry" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learningSpring_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpringOne" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ddzmitry" type="462c0819:PsiDirectoryNode" />
+              <item name="Coaches" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ddzmitry" type="462c0819:PsiDirectoryNode" />
+              <item name="CoachFortunes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningSpringBootWithAnnotations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learningSpring_one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpringOne" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546477156895" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/spring-websocket-5.1.3.RELEASE.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546477156962" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.3408203" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ddzmitry" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ddzmi\Desktop\Tutoring Trilogy\JavaSpringBootLearning\LearningSpringOne\src\main\resources" />
-      <recent name="C:\Users\ddzmi\Desktop\Tutoring Trilogy\JavaSpringBootLearning\LearningSpringOne\src\main\java\com\ddzmitry" />
-      <recent name="C:\Users\ddzmi\Desktop\Tutoring Trilogy\JavaSpringBootLearning\LearningSpringOne" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ddzmi\Desktop\Tutoring Trilogy\JavaSpringBootLearning\LearningSpringOne\src\main\resources" />
-      <recent name="C:\Users\ddzmi\Desktop\Tutoring Trilogy\JavaSpringBootLearning\LearningSpringOne\src" />
+      <recent name="C:\Users\ddzmi\Desktop\Tutoring Trilogy\JavaSpringBootLearning\LearningSpringBootWithAnnotations\src\main\resources" />
+      <recent name="C:\Users\ddzmi\Desktop\Tutoring Trilogy\JavaSpringBootLearning\LearningSpringBootWithAnnotations\src\main\java\com\ddzmitry" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -591,10 +609,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeanLifeCycleDemoApp">
-    <configuration name="BeanLifeCycleDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddzmitry.BeanLifeCycleDemoApp" />
-      <module name="LearningSpringOne" />
+  <component name="RunManager" selected="Application.SpringUsingConfigWithProperties">
+    <configuration name="JavaConfigDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddzmitry.JavaConfigDemo" />
+      <module name="LearningSpringBootWithAnnotations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ddzmitry.*" />
@@ -605,25 +623,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeanScopeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddzmitry.BeanScopeDemo" />
-      <module name="LearningSpringOne" />
+    <configuration name="ScopeAnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddzmitry.ScopeAnnotationExample" />
+      <module name="LearningSpringBootWithAnnotations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ddzmitry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddzmitry.MyApp" />
-      <module name="LearningSpringOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ddzmitry.Coaches.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -633,7 +638,7 @@
     </configuration>
     <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ddzmitry.SetterDemoApp" />
-      <module name="LearningSpringOne" />
+      <module name="LearningSpringBootWithAnnotations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ddzmitry.*" />
@@ -644,12 +649,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringHelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ddzmitry.SpringHelloApp" />
-      <module name="LearningSpringOne" />
+    <configuration name="SpringUsingConfigWithProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddzmitry.SpringUsingConfigWithProperties" />
+      <module name="LearningSpringBootWithAnnotations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ddzmitry.Coaches.*" />
+          <option name="PATTERN" value="com.ddzmitry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -657,20 +662,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearningSpringBootWithAnnotationsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="LearningSpringBootWithAnnotations" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ddzmitry.LearningSpringBootWithAnnotationsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MyApp" />
-      <item itemvalue="Application.SpringHelloApp" />
+      <item itemvalue="Spring Boot.LearningSpringBootWithAnnotationsApplication" />
       <item itemvalue="Application.SetterDemoApp" />
-      <item itemvalue="Application.BeanScopeDemo" />
-      <item itemvalue="Application.BeanLifeCycleDemoApp" />
+      <item itemvalue="Application.ScopeAnnotationExample" />
+      <item itemvalue="Application.JavaConfigDemo" />
+      <item itemvalue="Application.SpringUsingConfigWithProperties" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeanLifeCycleDemoApp" />
+        <item itemvalue="Application.SpringUsingConfigWithProperties" />
+        <item itemvalue="Application.JavaConfigDemo" />
+        <item itemvalue="Application.ScopeAnnotationExample" />
         <item itemvalue="Application.SetterDemoApp" />
-        <item itemvalue="Application.BeanScopeDemo" />
-        <item itemvalue="Application.SpringHelloApp" />
-        <item itemvalue="Application.MyApp" />
       </list>
     </recent_temporary>
   </component>
@@ -679,55 +690,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6c130b1f-ba4d-4334-a063-7666e19e70de" name="Default Changelist" comment="" />
-      <created>1546037640578</created>
+      <changelist id="ed1d82de-f471-4d25-bb53-94e3d6a0e50c" name="Default Changelist" comment="" />
+      <created>1546141612785</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546037640578</updated>
-      <workItem from="1546037644911" duration="9730000" />
-      <workItem from="1546132794490" duration="8763000" />
+      <updated>1546141612785</updated>
+      <workItem from="1546141617034" duration="22705000" />
     </task>
+    <task id="LOCAL-00001" summary="Added more stuff">
+      <created>1546143257607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546143257607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18493000" />
+    <option name="totallyTimeSpent" value="22705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-242" y="278" width="1932" height="1045" extended-state="1" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Learn" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33369923" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="CheckStyle" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="SciView" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.329718" />
+      <window_info anchor="bottom" id="CheckStyle" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -736,251 +754,292 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more stuff" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyApp.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/TrackCoach.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/config.fxml" />
-    <entry file="uml://SpringLocalModels/module=LearningSpringOne">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>SpringLocalModels</ID>
-          <OriginalElement>module=LearningSpringOne</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">module=LearningSpringOne</node>
-            <node x="206.0" y="0.0">fileset=LearningSpringOne/ApplicationContext</node>
-            <node x="412.0" y="0.0">filePath=C:/Users/ddzmi/Desktop/Tutoring Trilogy/JavaSpringBootLearning/LearningSpringOne/src/main/resources/applicationContext.xml</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="fileset=LearningSpringOne/ApplicationContext" target="filePath=C:/Users/ddzmi/Desktop/Tutoring Trilogy/JavaSpringBootLearning/LearningSpringOne/src/main/resources/applicationContext.xml">
-              <point x="63.0" y="-0.0" />
-              <point x="-73.0" y="-0.0" />
-            </edge>
-            <edge source="module=LearningSpringOne" target="fileset=LearningSpringOne/ApplicationContext">
-              <point x="63.0" y="-0.0" />
-              <point x="-63.0" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-184.0" y="-33.0" />
-          <SelectedNodes>
-            <node>filePath=C:/Users/ddzmi/Desktop/Tutoring Trilogy/JavaSpringBootLearning/LearningSpringOne/src/main/resources/applicationContext.xml</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Show filesets as groups</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/BaseballCoach.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/MyApp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/DartsCoach.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/CoachFortunes/FortuneService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/NameServicesCoaches/NameserviceCoach.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/SwimmingCoach.java">
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/NameServicesCoaches/PersonalCoachNamer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/LoggerConfigs/MyLoggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/sport.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/CricketCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/TrackCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/BaseballCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sport.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/LoggerConfigs/MyLoggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/NameServicesCoaches/NameserviceCoach.java">
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/FortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/NameServicesCoaches/PersonalCoachNamer.java">
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/DataBaseFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/CoachFortunes/CoachFortuneRandom.java">
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/RestFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#297#305#0" expanded="true" />
-          </folding>
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/SpringHelloApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/Coach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/Coaches/CricketCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/beanScope_applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/BeanScopeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/SetterDemoApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-          <folding>
-            <element signature="e#1538#1552#0" expanded="true" />
-            <element signature="e#1595#1608#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/beanLifeCycle_applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/CoachFortuneRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ddzmitry/BeanLifeCycleDemoApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/SingleFortune.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2788" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/ЫзщкеСщташп.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SetterDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/TennisCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/ScopeAnnotationExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/CoachFortunes/SadFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/JavaConfCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/JavaConfigDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/SwimmingCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/GamerCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/FieldIjectionCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#435#449#1" expanded="true" />
+            <element signature="e#488#505#1" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SportConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/Coaches/VolleyBallCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#214#1" expanded="true" />
+            <element signature="e#253#266#1" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/SpringUsingConfigWithProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningSpringBootWithAnnotations/src/main/java/com/ddzmitry/LearningSpringBootWithAnnotationsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.12.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -993,18 +1052,6 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring|LearningSpringOne</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1028,7 +1075,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>spring-aop-5.1.3.RELEASE-javadoc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

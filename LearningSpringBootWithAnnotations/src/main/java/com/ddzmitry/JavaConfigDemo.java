@@ -1,12 +1,15 @@
 package com.ddzmitry;
 
 import com.ddzmitry.Coaches.Coach;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class ScopeAnnotationExample {
+public class JavaConfigDemo {
     public static void main(String[] args) {
 
-        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+//        Using Sport Config Java Class
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(SportConfig.class);
+
         Coach alphaCoach = context.getBean("tennisCoach",Coach.class);
         Coach betaCoach = context.getBean("tennisCoach",Coach.class);
 //        Since it's Prototype scope both will not equal to each other since their memory location is different

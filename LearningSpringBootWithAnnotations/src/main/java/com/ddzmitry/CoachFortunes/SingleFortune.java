@@ -3,10 +3,11 @@ import org.springframework.stereotype.Component;
 
 
 @Component
-public class SindleFortune implements  FortuneService {
+public class SingleFortune implements  FortuneService {
 
     @Override
     public String getFortune() {
+
         return "Just do IT!";
     }
 }

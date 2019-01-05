@@ -1,8 +1,8 @@
 <%--
   Created by IntelliJ IDEA.
   User: ddzmi
-  Date: 1/3/2019
-  Time: 12:19 AM
+  Date: 1/4/2019
+  Time: 8:31 PM
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -11,8 +11,7 @@
     <title>Title</title>
 </head>
 <body>
- <button>
-     <a href="showForm"> Form Hello Word</a>
- </button>
+<h1> Submited Form</h1>
+        <pre> Student name: ${param.studentName}</pre>
 </body>
 </html>

@@ -12,7 +12,9 @@
 </head>
 <body>
         <h1>YOOOOO</h1>
-        <h1>${message}</h1>
-        <pre>${NumberOfLife}</pre>
+
+        <h1>${first}</h1>
+        <h3>${last}</h3>
+        <pre>${full}</pre>
 </body>
 </html>

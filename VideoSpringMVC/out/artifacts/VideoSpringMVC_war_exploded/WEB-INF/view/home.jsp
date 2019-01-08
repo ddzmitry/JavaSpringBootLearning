@@ -12,7 +12,10 @@
 </head>
 <body>
  <button>
-     <a href="showForm"> Form Hello Word</a>
+     <a href="hello/showForm"> Form Hello Word</a>
+        <br><br>
+
+     <a href="student/showForm"> Student Form </a>
  </button>
 </body>
 </html>

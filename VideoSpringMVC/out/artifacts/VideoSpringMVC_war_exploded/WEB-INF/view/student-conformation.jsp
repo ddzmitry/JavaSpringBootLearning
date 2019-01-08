@@ -7,23 +7,23 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%--JSTL TAGS FOR LOOPING--%>
-<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
     <title>Title</title>
 </head>
 <body>
-        <h1> Student Have Been Confiremd</h1>
-        <pre>${student.firstName} ${student.lastName}</pre>
-                <pre>${student.country}</pre>
-        <pre>${student.favoriteLanguage}</pre>
+<h1> Student Have Been Confiremd</h1>
+<pre>${student.firstName} ${student.lastName}</pre>
+<pre>${student.country}</pre>
+<pre>${student.favoriteLanguage}</pre>
 
-        <ul>
-                <c:forEach var = "i" items="${student.OSsystems}">
-                        <li>${i}</li>
-                </c:forEach>
+<ul>
+    <c:forEach var="i" items="${student.OSsystems}">
+        <li>${i}</li>
+    </c:forEach>
 
-        </ul>
+</ul>
 
 </body>
 </html>

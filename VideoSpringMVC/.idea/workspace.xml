@@ -7,30 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57183b68-86d2-4523-a2b9-06e3bf4ffd95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pojos/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/countries.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/languages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/ossystems.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/classes/com/luv2code/springdemo/ControllerPoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/classes/com/luv2code/springdemo/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/classes/com/luv2code/springdemo/HelloWorldController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/hello-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/hello-form.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/helloWorld.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/helloWorld.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoSpringMVC_war_exploded/WEB-INF/view/poop.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VideoSpringMVC/com/luv2code/springdemo/ControllerPoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VideoSpringMVC/com/luv2code/springdemo/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VideoSpringMVC/com/luv2code/springdemo/HelloWorldController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/ControllerPoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/HelloWorldController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/hello-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/hello-form.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/helloWorld.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/helloWorld.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/student-conformation.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/poop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/studentForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/student-conformation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/student-conformation.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/student-conformation.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            <state relative-caret-position="320">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -290,7 +267,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546915441841" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546921401058" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -407,12 +384,12 @@
       <updated>1546492307798</updated>
       <workItem from="1546492312688" duration="2224000" />
       <workItem from="1546650817104" duration="13218000" />
-      <workItem from="1546912202887" duration="3220000" />
+      <workItem from="1546912202887" duration="4481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18662000" />
+    <option name="totallyTimeSpent" value="19923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -430,13 +407,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33260393" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5330444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5330444" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32932165" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -612,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/student-conformation.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        <state relative-caret-position="320">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>

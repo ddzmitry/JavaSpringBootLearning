@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/hibernate-validator-6.0.14.Final-dist/hibernate-validator-6.0.14.Final/dist" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-validator-6.0.14.Final-dist/hibernate-validator-6.0.14.Final/dist" recursive="false" />
+  </library>
+</component>

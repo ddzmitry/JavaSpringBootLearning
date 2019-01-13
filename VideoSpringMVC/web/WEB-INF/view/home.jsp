@@ -11,11 +11,17 @@
     <title>Title</title>
 </head>
 <body>
- <button>
-     <a href="hello/showForm"> Form Hello Word</a>
-        <br><br>
+    <button>
+        <a href="hello/showForm"> Form Hello Word</a>
+    </button>
+    <br><br>
+    <button><a href="student/showForm"> Student Form </a>
+    </button>
+    <br><br>
 
-     <a href="student/showForm"> Student Form </a>
- </button>
+    <button>
+        <a href="customer/showForm"> Customer Form </a>
+    </button>
+
 </body>
 </html>

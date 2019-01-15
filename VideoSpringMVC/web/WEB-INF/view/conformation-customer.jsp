@@ -13,5 +13,10 @@
 <body>
         <h1>Confirmed</h1>
 <pre>${customer.firstName} ${customer.lastName}</pre>
+        <br><br>
+<pre>Free Passes : ${customer.freePasses}</pre>
+        <br><br>
+<pre>Zip Code : ${customer.zipCode} </pre>
+
 </body>
 </html>

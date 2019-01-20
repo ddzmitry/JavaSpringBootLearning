@@ -11,12 +11,15 @@
     <title>Title</title>
 </head>
 <body>
-        <h1>Confirmed</h1>
+<h1>Confirmed</h1>
 <pre>${customer.firstName} ${customer.lastName}</pre>
-        <br><br>
+<br><br>
 <pre>Free Passes : ${customer.freePasses}</pre>
-        <br><br>
+<br><br>
 <pre>Zip Code : ${customer.zipCode} </pre>
-
+<br><br>
+<pre>Course Code : ${customer.courseCode} </pre>
+<br><br>
+<pre>Magic Number : ${customer.magicNumber} </pre>
 </body>
 </html>

@@ -5,16 +5,14 @@ import javax.validation.ConstraintValidatorContext;
 
 
 // Custom Validator
-public class EvenConstraintValidator implements ConstraintValidator<MustBeEven,String> {
+public class EvenConstraintValidator implements ConstraintValidator<MustBeEven, String> {
 
-    private  String thePrefix;
+    private String thePrefix;
 
     @Override
     public void initialize(MustBeEven constraintAnnotation) {
 //        Get Value
-        System.out.println("In INIT");
-        System.out.println(constraintAnnotation.value());
-        thePrefix= constraintAnnotation.value();
+        thePrefix = constraintAnnotation.value();
     }
 
 
@@ -23,12 +21,17 @@ public class EvenConstraintValidator implements ConstraintValidator<MustBeEven,S
         boolean result;
         // check and make sure that value is not empty
         System.out.println(theCode);
+        if (theCode != null) {
 
-        if (theCode != null){
-            // check if input is even
-            System.out.println("THE CODEEE");
-            System.out.println(theCode);
-            result = Integer.parseInt(theCode)%2 == 0;
+            try {
+                // the String to int conversion happens here
+                int i = Integer.parseInt(theCode.trim());
+                result = i % 2 == 0;
+            } catch (NumberFormatException nfe) {
+                result = false;
+
+            }
+
         } else {
             // return true if passed all checks
             result = true;

@@ -14,10 +14,10 @@ import java.lang.annotation.Target;
 //Custom Validator
 public @interface CourseCode {
     //    define default course code
-    public String value() default "LUV";
+    public String [] value() default {"LUV", "DZ" };
 
     // define deefault error message
-    public String message() default "must start with LUV";
+    public String message() default "must start with LUV or DZ";
 
     // define default groups
     public Class<?>[] groups() default{};

@@ -18,6 +18,16 @@
     <util:properties id="languageOptions" location="classpath:../languages.properties" />
     <util:properties id="OSOptions" location="classpath:../ossystems.properties" />
 
+    <!--add custom error messages -->
+    <bean id="messageSource"
+    class="org.springframework.context.support.ResourceBundleMessageSource">
+        <!-- Overwrite values here -->
+        <property name="basename" value="resources.messages">
+
+        </property>
+    </bean>
+
+
     <!-- Step 3: Add support for component scanning -->
     <context:component-scan base-package="com.luv2code.springdemo" />
 
